@@ -7,7 +7,8 @@ Music Barter aims to connect musicians with each other to trade knowledge about 
 Our mission is to educate and connect musicians to help create a world full of musicians reaching their full potential and bringing art to all those around them.
 
 ```markdown
-Our mission is to educate and connect musicians to help create a world full of musicians reaching their full potential and bringing art to all those around them.
+Our mission is to educate and connect musicians to help create a world full of musicians
+reaching their full potential and bringing art to all those around them.
 ```
 
 
