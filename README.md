@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Music Barter
 
-You can use the [editor on GitHub](https://github.com/magv96/musicbarter.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Music Barter aims to connect musicians with each other to trade knowledge about music, marketing, and other valuable and interesting knowledge that musicians around the world have amassed. This service provides a platform where trading viola lessons for a sound tech can happen in the ancient art of bartering. 
 
 ### Markdown
 
