@@ -7,21 +7,7 @@ Music Barter aims to connect musicians with each other to trade knowledge about 
 Our mission is to educate and connect musicians to help create a world full of musicians reaching their full potential and bringing art to all those around them.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Our mission is to educate and connect musicians to help create a world full of musicians reaching their full potential and bringing art to all those around them.
 ```
 
 
